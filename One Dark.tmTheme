@@ -50,6 +50,17 @@
 			<key>name</key>
 			<string>Text</string>
 			<key>scope</key>
+			<string>custom.contrast</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Text</string>
+			<key>scope</key>
 			<string>variable.parameter.function</string>
 			<key>settings</key>
 			<dict>
